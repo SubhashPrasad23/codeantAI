@@ -1,3 +1,13 @@
+/* src/index.css */
+@import "@fontsource/inter/400.css"; /* Regular weight */
+@import "@fontsource/inter/600.css";
+@import "@fontsource/inter/700.css"; /* Bold weight */
+ /* Bold weight */
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+
+.body{
+    font-family: sans;
+}

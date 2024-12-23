@@ -1,8 +1,14 @@
+import Routes from "./routes/Routes";
+import "../src/index.css/"
+
 function App() {
-  return <>
-  
-  <div className="text-lg "></div>
-  </>;
+  return (
+    <>
+      <div>
+        <Routes />
+      </div>
+    </>
+  );
 }
 
 export default App;
