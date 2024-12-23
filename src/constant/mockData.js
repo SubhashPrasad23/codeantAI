@@ -4,7 +4,7 @@ import setting from "../assets/gear.svg";
 import book from "../assets/book.svg";
 import github from "../assets/github.svg";
 import azure from "../assets/azure.svg";
-import bitbucket from "../assets/bitBucket.svg";
+import bitBucket from "../assets/bitBucket.svg";
 import gitlab from "../assets/gitlab.svg";
 
 
@@ -97,7 +97,7 @@ export const signInOptions = [
   },
   {
     text: "Sign in with Bitbucket",
-    icon: bitbucket,
+    icon: bitBucket,
   },
   {
     text: "Sign in with Azure DevOps",
