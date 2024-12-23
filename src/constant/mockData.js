@@ -4,7 +4,7 @@ import setting from "../assets/gear.svg";
 import book from "../assets/book.svg";
 import github from "../assets/github.svg";
 import azure from "../assets/azure.svg";
-import bitBucket from "../assets/bitBucket.svg";
+import bitBucket from "../assets/bitbucket.svg";
 import gitlab from "../assets/gitlab.svg";
 
 
